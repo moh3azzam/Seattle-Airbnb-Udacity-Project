@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-![image-20210715153637166](.res/img/image-20210715153637166.png)
+![image-20210715153637166](assets/images//image-20210715153637166.png)
