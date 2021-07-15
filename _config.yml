@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 github:
-  tar_url: http://example.com/download.zip
+  zip_url: http://example.com/download.zip
   owner_name: Mohamed Azzam
 title: [The title of your site]
 description: [A short description of your site's purpose]
