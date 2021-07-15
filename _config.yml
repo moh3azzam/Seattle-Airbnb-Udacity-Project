@@ -2,5 +2,6 @@ theme: jekyll-theme-architect
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
+  owner_name: Mohamed Azzam
 title: [The title of your site]
 description: [A short description of your site's purpose]
