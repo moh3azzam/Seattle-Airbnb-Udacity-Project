@@ -16,6 +16,12 @@ As part of Udacity Data Science Nanodegree, i have to analysis Seattle-Airbnb da
 
 ------
 
+## Evaluating results:
+
+The results and evaluations are included in the jupyter notebook. A detailed overview of the results is posted on Medium [here](https://mohamed-azzam.github.io/Seattle-Airbnb-Udacity-Project/)
+
+------
+
 
 
 ## Packages used
